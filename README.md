@@ -143,9 +143,23 @@ Three machine learning models were trained and evaluated.
 
 ---
 
-### Confusion Matrix
+## 📊 Confusion Matrices
 
-![Confusion Matrix](images/confusion_matrix.png)
+### Logistic Regression
+
+![Logistic Regression Confusion Matrix](images/confusion_matrix/Logistic%20Regression.png)
+
+---
+
+### Decision Tree
+
+![Decision Tree Confusion Matrix](images/confusion_matrix/Decision%20Tree.png)
+
+---
+
+### Random Forest
+
+![Random Forest Confusion Matrix](images/confusion_matrix/Random%20Forest.png)
 
 ---
 
